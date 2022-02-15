@@ -4,7 +4,7 @@
 ### Made By : Ahmad Mughrabi
 
 ### Requirements Page
-https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/landing-page
+https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/landing-page#assignment
 
 ### Website Page
 https://9amtech.github.io/Project2-Landing-Page/
