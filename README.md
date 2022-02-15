@@ -1,5 +1,5 @@
 # Project2-Landing-Page
-## Extremely Simple Recipe Page
+## A Simple Mockup for a Landing Page
 
 ### Made By : Ahmad Mughrabi
 
